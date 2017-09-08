@@ -1,0 +1,18 @@
+<1> <Adi> <current_location (3 3)>
+OverlapException: Knights Overlap Exception  < Stephen >
+<1> <Alice> <current_location (1 5)>
+NonCoordinateException: Not a coordinate Exception  < 5 >
+<2> <Adi> <current_location (7 2)>
+NonCoordinateException: Not a coordinate Exception  < 3 >
+<2> <Alice> <current_location (1 5)>
+No exception <coordinates popped (2 3)>
+<3> <Adi> <current_location (7 2)>
+NonCoordinateException: Not a coordinate Exception  < 2.5 >
+<3> <Alice> <current_location (2 3)>
+NonCoordinateException: Not a coordinate Exception  < lol >
+<4> <Adi> <current_location (7 2)>
+No exception <coordinates popped (4 3)>
+<4> <Alice> <current_location (2 3)>
+StackEmptyException: Stack Empty exception
+<5> <Adi> <current_location (4 3)>
+QueenFoundException: Queen has been Found. Abort!
